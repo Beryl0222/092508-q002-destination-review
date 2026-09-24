@@ -1,0 +1,6 @@
+[project]
+name = "destination-review"
+version = "0.1.0"
+description = "旅游目的地称号评议的服务端领域基础"
+requires-python = ">=3.11"
+dependencies = []
